@@ -1,0 +1,168 @@
+[{
+  "_id": {
+    "$oid": "66ac9815f5c6c92a678b5506"
+  },
+  "email": "brahmabytelab03@gmail.com",
+  "password": "$2a$10$0VB4Vhnz5VU8RFuqQLsXoumtpST.zA99JYoUrOZ.95AOkeukGzP3C",
+  "isVerified": true,
+  "__v": 1,
+  "displayName": "Gaurav",
+  "fullName": "Gaurav",
+  "joinedDate": {
+    "$date": "2024-08-04T05:14:10.526Z"
+  },
+  "phone": "9824341527",
+  "timeZone": "GM+1",
+  "title": "Software Engineer",
+  "profilePicture": "/uploads/66ac9815f5c6c92a678b5506.jpg",
+  "profileStatus": "Away",
+  "status": {
+    "type": null,
+    "text": null,
+    "icon": null,
+    "clearAfter": null,
+    "notifications": {
+      "enabled": false,
+      "disableAfter": null
+    }
+  },
+  "workspaces": [
+    {
+      "$oid": "66bd84da8987a100e3b9f75d"
+    },
+    {
+      "$oid": "66bda210f4837bdc3cbcca73"
+    },
+    {
+      "$oid": "66bda776b9d8a178f9de180c"
+    },
+    {
+      "$oid": "66bdc4925f667c1babda0756"
+    },
+    {
+      "$oid": "66bed54d0b6df1fb860ea4d2"
+    },
+    {
+      "$oid": "66bedcf61ec65a851c8f297e"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66bc3bff1978c4a7b952b5e8"
+  },
+  "email": "nirazkha528@gmail.com",
+  "password": "$2a$10$p6XkNJNB/WHb1yjAC3wXOulR7uweoRVlyxA.C7969QIx88ZOioqKu",
+  "isVerified": true,
+  "status": {
+    "type": "In a meeting",
+    "text": "In a meeting",
+    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAErSURBVHgB7ZU/TgJBFMa/eTBqTIyYmGhs2JBY2HEBDVZqhzfAxAt4Ak9hT2ONnVpJ9AIWVBRkaUg2FBASAmyAYXbDAgsz/F1CAb9kM+/tfO99+2aLAdYM021kPn8M7IVTsNvpx4dbc1kN6QycQsbo1W2wgmYwQSURj/AQz8hXCScvXN+hcHOP2O8XYn/fymKVRjb8sDv200n2v+qbgBNPes0drFrDt6pQaQSQ5LSf8nIabjBjtJiVy75VhU4jICJeHNYVx4s5WC/POD8+lOOFltZoDQ5kQfT0CNOYRzMwyL+9gxhDEHSF/BNXl25MWDPaIzJLForyiV6cufms2Ojn42xuAmPsq+aJFzLYHdFMg90ReQwnEFRFYAhzwoBalHYuC6xOlpr1IPpsCz2Ej4cJfgFqVgAAAABJRU5ErkJggg==",
+    "clearAfter": null,
+    "notifications": {
+      "enabled": false,
+      "disableAfter": null
+    }
+  },
+  "profileStatus": "Online",
+  "joinedDate": {
+    "$date": "2024-08-14T05:09:19.502Z"
+  },
+  "__v": 1,
+  "currentWorkspace": {
+    "$oid": "66c41b39903a9800c8a79f61"
+  },
+  "workspaces": [
+    {
+      "$oid": "66bda776b9d8a178f9de180c"
+    },
+    {
+      "$oid": "66bdbc3960bfe1eedccc5e18"
+    },
+    {
+      "$oid": "66bdf0a80e43eccd12276d48"
+    },
+    {
+      "$oid": "66bec8d2e697cd7b9772f41f"
+    },
+    {
+      "$oid": "66bed54d0b6df1fb860ea4d2"
+    },
+    {
+      "$oid": "66bedcf61ec65a851c8f297e"
+    }
+  ],
+  "fullName": "Niraj kha",
+  "title": "Frontend developer",
+  "displayName": "Tharu",
+  "phone": "+977-9824341527",
+  "profilePicture": "/uploads/66bc3bff1978c4a7b952b5e8.png"
+},
+{
+  "_id": {
+    "$oid": "66bd88a7b11025cf601cb5ae"
+  },
+  "email": "hero@gmail.com",
+  "password": "$2a$10$nK0Un/iJ47yZuBoqL.CM4eaPxP9fvZzlmaw/71Z6FwLKN/W1JQG7m",
+  "otp": "279278",
+  "otpExpires": {
+    "$date": "2024-08-15T04:58:39.647Z"
+  },
+  "isVerified": false,
+  "status": {
+    "notifications": {
+      "enabled": false
+    },
+    "type": "In a meeting"
+  },
+  "profileStatus": "Online",
+  "workspaces": [],
+  "joinedDate": {
+    "$date": "2024-08-15T04:48:39.656Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bd8979b11025cf601cb5b2"
+  },
+  "email": "niraztharugmail.com",
+  "password": "$2a$10$0ehR4r5LSHM6UyPWBCoQxOUOj8RiIcQYq/26JbH.kPQH.eyNcHOce",
+  "otp": "287433",
+  "otpExpires": {
+    "$date": "2024-08-15T05:02:09.734Z"
+  },
+  "isVerified": false,
+  "status": {
+    "notifications": {
+      "enabled": false
+    },
+    "type": "In a meeting"
+  },
+  "profileStatus": "Online",
+  "workspaces": [],
+  "joinedDate": {
+    "$date": "2024-08-15T04:52:09.735Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bd8a01b11025cf601cb5b6"
+  },
+  "email": "brahmabytelab14@gmail.com",
+  "password": "$2a$10$wj/75eiNBcrnc.wLpThnAuzCpT4dBivf3tORtgqSW3p9Ta75EpMkO",
+  "isVerified": true,
+  "status": {
+    "notifications": {
+      "enabled": false
+    },
+    "type": "In a meeting"
+  },
+  "profileStatus": "Online",
+  "workspaces": [],
+  "joinedDate": {
+    "$date": "2024-08-15T04:54:25.464Z"
+  },
+  "__v": 0
+}]
